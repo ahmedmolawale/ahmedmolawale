@@ -19,7 +19,7 @@
 </h1>
 
 
-I am an Android engineer with over 4 years experience. I enjoy talking about architecture, clean code and a keen interest in understanding the basics and fundamentals of everything.
+I am an Android engineer. I enjoy talking about architecture, clean code and a keen interest in understanding the basics and fundamentals of everything.
 
 I am currently an Android engineer at Getir.
 
